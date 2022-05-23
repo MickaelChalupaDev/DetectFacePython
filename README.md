@@ -1,7 +1,7 @@
 # DetectFacePython
  
 
- Projet pour développer une application qui servirait principalement aux personnes à mobilités réduite.
+ Projet personel afin de développer une application qui servirait principalement aux personnes à mobilités réduite.
 
 
 PREMIERE ETAPE : 
